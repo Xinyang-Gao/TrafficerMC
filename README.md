@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/RattlesHyper/TrafficerMC/assets/83329088/28ffc234-65f7-4847-a0ad-1df8a52a368d"/>
 </p>
-<p align="center"><b style="font-size: 20px">The best, free and open source Minecraft botting tool.</b></p>
+<p align="center"><b style="font-size: 30px">⚠️ This version of the program is no longer actively maintained.</b></p>
 <p align="center">
 <a href="https://github.com/RattlesHyper/TrafficerMC/releases/latest">
   <img src="https://img.shields.io/github/v/release/RattlesHyper/Trafficermc?color=red&style=for-the-badge"/>
