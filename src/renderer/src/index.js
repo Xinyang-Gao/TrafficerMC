@@ -3,7 +3,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
   window.electron?.ipcRenderer.on('setConfig', (event, config, version) => {
     setConfigValues(config)
-    fetch('https://raw.githubusercontent.com/RattlesHyper/TrafficerMC/main/VERSION', {
+    fetch('https://raw.githubusercontent.com/Nulled-Name/TrafficerMC/refs/heads/main/VERSION', {
       method: 'GET'
     })
       .then((response) => response.text())

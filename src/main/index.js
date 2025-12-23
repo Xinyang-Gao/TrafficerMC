@@ -38,7 +38,7 @@ function storeinfo() {
   return store.get('config')
 }
 
-let clientVersion = 3.1
+let clientVersion = 3.2
 
 let playerList = []
 
