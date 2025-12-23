@@ -25,7 +25,7 @@ document.addEventListener('mousemove', (e) => {
   background.style.backgroundPosition = `${50 + moveX}% ${50 + moveY}%`
 })
 
-fetch('https://api.github.com/repos/RattlesHyper/TrafficerMC/releases')
+fetch('https://api.github.com/repos/Nulled-Name/TrafficerMC/releases')
   .then((response) => response.json())
   .then((data) => {
     let totalDownloadCount = 0
