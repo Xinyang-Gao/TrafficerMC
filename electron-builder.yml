@@ -13,6 +13,7 @@ asarUnpack:
 win:
   target: portable
   icon: src/renderer/assets/icons/icon.png
+  sign: false
 nsis:
   artifactName: ${name}-${version}-setup.${ext}
   shortcutName: ${productName}
