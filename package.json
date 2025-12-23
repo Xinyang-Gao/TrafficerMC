@@ -1,6 +1,6 @@
 {
   "name": "trafficermc",
-  "version": "3.2",
+  "version": "3.2.0",
   "description": "A Minecraft botting tool with Anti-AFK, Chat spammer, Inventory/Chest manager features.",
   "main": "./out/main/index.js",
   "author": "RattlesHyper",
